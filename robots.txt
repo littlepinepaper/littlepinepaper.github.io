@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://littlepinepaper.github.io/sitemap.xml
